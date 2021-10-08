@@ -2,7 +2,7 @@ I'm a software engineer from Japan🇯🇵. I do front-end, back-end, mobile!
 
 **About me**
 
-- 🔭 I’m currently working at DMM.com.
+- 🔭 I’m currently working at DMM.com, Cicakel
 - 🌱 I’m currently learning mobile multiplatform technologies like KMM, Flutter.
 - 🌱 I’m currently learning declarative UI like jetpack compose, swiftUI
 - 📫 How to reach me: Email or Messenger.

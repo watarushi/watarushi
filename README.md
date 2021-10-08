@@ -18,5 +18,5 @@ I'm a software engineer from Japan🇯🇵. I do front-end, back-end, mobile!
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-[![watarushi's github stats](https://github-readme-stats.vercel.app/api?username=watarushi&hide=contribs&count_private=true&show_icons=true&theme=buefy&hide_border=true)](https://github.com/ユーザ名/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watarushi&layout=compact&theme=tokyonight&hide=c,c%2B%2B,shell,Roff,Makefile,css,assembly,jupyter%20notebook&theme=buefy&hide_border=true)](https://github.com/inoue0124/)
+[![watarushi's github stats](https://github-readme-stats.vercel.app/api?username=watarushi&hide=contribs&count_private=true&show_icons=true&theme=buefy&hide_border=true&count_private=true)](https://github.com/ユーザ名/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watarushi&layout=compact&count_private=true&theme=tokyonight&hide=c,c%2B%2B,shell,Roff,Makefile,css,assembly,jupyter%20notebook&theme=buefy&hide_border=true)](https://github.com/inoue0124/)

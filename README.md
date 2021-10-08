@@ -3,14 +3,16 @@ I'm a software engineer from Japan🇯🇵. I do front-end, back-end, mobile!
 **About me**
 
 - 🔭 I’m currently working at DMM.com.
-- 🌱 I’m currently learning mobile multiplatform technologies. KMM, Flutter,,
-- 📫 How to reach me: Email
-- 😄 Languages: Japanese, Mandarin, English
+- 🌱 I’m currently learning mobile multiplatform technologies like KMM, Flutter.
+- 🌱 I’m currently learning declarative UI like jetpack compose, swiftUI
+- 📫 How to reach me: Email or Messenger.
+- 😄 Languages: Japanese, English
 
 
 **Favorites🥰:**
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
